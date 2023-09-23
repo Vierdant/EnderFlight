@@ -3,7 +3,7 @@
 	"id": "enderflight",
 	"version": "${version}",
 	"name": "EnderFlight",
-	"description": "Fabric mod that adds an ender beacon that allows players to fly as long as it's fueled",
+	"description": "Adds a vanilla-like way that respects the minecraft progression to obtain creative flight",
 	"authors": [
 		"Vierdant"
 	],
