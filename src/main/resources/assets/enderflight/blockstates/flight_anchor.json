@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "active=true": {
+      "model": "enderflight:block/flight_anchor"
+    },
+    "active=false": {
+      "model": "enderflight:block/flight_anchor_active"
+    }
+  }
+}

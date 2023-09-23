@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "enderflight:block/flight_anchor_bottom",
+    "east": "enderflight:block/flight_anchor_side_active",
+    "north": "enderflight:block/flight_anchor_side_active",
+    "particle": "enderflight:block/flight_anchor_side_active",
+    "south": "enderflight:block/flight_anchor_side_active",
+    "up": "enderflight:block/flight_anchor_top_active",
+    "west": "enderflight:block/flight_anchor_side_active"
+  }
+}

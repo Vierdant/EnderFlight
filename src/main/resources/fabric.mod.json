@@ -3,9 +3,9 @@
 	"id": "enderflight",
 	"version": "${version}",
 	"name": "EnderFlight",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Fabric mod that adds an ender beacon that allows players to fly as long as it's fueled",
 	"authors": [
-		"Me!"
+		"Vierdant"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,10 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "me.vierdant.enderflight.EnderFlightMod"
+			"me.vierdant.enderflight.EnderFlight"
+		],
+		"client": [
+			"me.vierdant.enderflight.EnderFlightClient"
 		],
 		"fabric-datagen": [
-			"me.vierdant.enderflight.ExampleModDataGenerator"
+			"me.vierdant.enderflight.EnderFlightDataGenerator"
 		]
 	},
 	"mixins": [

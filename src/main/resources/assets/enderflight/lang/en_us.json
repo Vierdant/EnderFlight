@@ -1,0 +1,10 @@
+{
+  "item.enderflight.dragon_scale": "Dragon Scale",
+  "item.enderflight.shulker_shard": "Shulker Shard",
+
+  "block.enderflight.flight_anchor": "Flight Anchor",
+  "block.enderflight.flight_anchor.inventory.name": " ",
+  "block.enderflight.chorated_shulker": "Chorated Shulker",
+
+  "effect.enderflight.flight": "Flight"
+}
